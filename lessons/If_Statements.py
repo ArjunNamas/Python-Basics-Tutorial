@@ -1,4 +1,4 @@
-sw = "Gir"
+sw = "Sir"
 guess = ""
 guesscount = 0
 guesslimit = 4
